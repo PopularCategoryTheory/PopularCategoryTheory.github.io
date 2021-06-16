@@ -1,5 +1,5 @@
 ---
-title: "The epiphanies that came along with Harry Potter"
+title: "Thoughts on anime, and the mortification of an anti-hero in a dystopian society"
 layout: post
 ---
 
