@@ -1,5 +1,6 @@
 ---
 title: "The epiphanies that came along with Harry Potter"
+mathjax: true
 layout: post
 categories: media
 ---
