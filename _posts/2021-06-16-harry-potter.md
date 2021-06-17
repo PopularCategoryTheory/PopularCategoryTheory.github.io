@@ -37,7 +37,7 @@ To me, June 2020 was a classic summer month - in fact there was nothing about it
 
 Usually, I am completely for unbiased thinking that puts emotions out of the way - and it is normally the easiest way for me to approach a situation. Despite that, I did find J. K. Rowling and Harry Potter to be directly in contrast with each other. Rowling wrote a series that depicted how terrible the world would be if we excluded a group in society, only to discriminate against transgender people at the end of the day, while also supporting other anti-trans remarks. Finally, my hatred for J. K. Rowling did percolate into my opinion of the Harry Potter books - and now they symbolise nothing but irony to me.
 
-**Note:** Mr. Silent and Mr. Blabbermouth are aliases used in order to protect the identity of certain individuals. The use of "Blabbermouth" is not intended to be taken seriously, and if it is seen as demeaning to you, I highly recommend you read [this.](https://www.urbandictionary.com/define.php?term=Snowflake)
+**Note:** Mr. Silent and Mr. Blabbermouth are aliases used in order to protect the identity of certain individuals. The use of "Blabbermouth" is not intended to be taken seriously, and if it is seen as demeaning to you, I highly recommend you read [this](https://www.urbandictionary.com/define.php?term=Snowflake) or even better, watch [this.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 
