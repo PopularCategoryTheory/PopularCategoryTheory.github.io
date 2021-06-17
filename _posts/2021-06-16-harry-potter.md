@@ -1,6 +1,7 @@
 ---
 title: "The epiphanies that came along with Harry Potter"
 layout: post
+categories: media
 ---
 
 An exhausted seven year old Khyathi plopped herself onto the bed after a long Saturday afternoon - she had just finished reading *Judy Moody and the Bad Luck Charm*, after around four long hours. Her novice self, who was clueless about how many books were left to explore, thought that the series was the greatest she would ever read. While she probed into the depths of how Judy Moody's character learnt to believe in herself over the felicity offered by a squished penny, her mother joined her, and in the process, her train of thought was interrupted. Little did she know that this "tradition" of lying on the bed and discussing the most random of things would last for several years to come. Over the course of the conversation, Harry Potter was eventually brought into the picture, to be succinct, my curious mom wondered if there was any particular reason behind why I had not expressed any interest in reading the novels. A prime characteristic of my personality that is unique now, and even then, is the fact that I love to hold an opinion about everything, even if it is founded upon prejudice. At that point of time, I knew very little about Harry Potter, so I replied in a stereotypical and run-of-the-mill manner - my scoffing self told her that I was too old to read a book based on magic and fantasy. Thankfully, this was not met by contempt, and my opinion was respected, irrespective of how unfounded it was.
