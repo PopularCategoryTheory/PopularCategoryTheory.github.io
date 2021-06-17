@@ -19,7 +19,13 @@ This unexpected turn of events led to me finishing one book before Mr. Silent, a
 
 My journey of completing the Harry Potter novels brought a great amount of contentment to me - not just because I adored the plot, and how J.K. Rowling threw light on the proletariat's troubles by means of a few books, but also since it gifted me with a great amount of treasured memories, mostly involving the time I spent with friends while reading it. I was so obsessed with Harry Potter that I would ask my father to buy me Prop Replicas from Platform 9 3/4 at London, and these collectibles continue to inundate my house. Mr. Silent, Mr. Blabbermouth, and a few of my other friends would often quiz each other to test our knowledge of events that occurred in the series. 
 
-Nevertheless, my love for J. K. Rowling was certainly not everlasting - today, at this point of time, the only thing that I am grateful for are the moments I spent with my friends. My respect for her ebbed away slowly but surely.
+After a few days, *Harry Potter and the Cursed Child* was finally released, and I was one of the first people in my class to get my hands on the book, which meant I had the attention of several people who were waiting to read it, including Mr. Blabbermouth and a few acquaintances. Since I still held a bit of a grudge against Mr. Blabbermouth, the childish side of me decided to never lend it to him, though I eventually did. To follow suit with previous habits, the first person I gave the book to was Mr. Silent. 
+
+Thus began the slow ebbing away of my respect and affection for J. K. Rowling. I believe I speak for numerous fans of the series when I say that the last installment of the saga was a colossal disappointment. Filled with plot loopholes and a nimiety of inconsistencies, the book made little to no sense. The abrupt shift from regular writing to a playscript did not work very well in the large scheme of things. The personas of several characters had changed diversely, to the point that characters like Draco Malfoy were irrecognizable. While Harry Potter was always seen as a dimwit in my mind, I did appreciate his capacity to love - something that the author had emphasized on throughout the whole series. In no universe does it make sense when the amiable main character who we were accustomed to for seven long novels ends up telling his own son that he wishes he was not his father. In spite of being thirty seven years old, Harry Potter remains to be an impulsive nitwit, who fails to take a breather and think when the situation demands it. My favourite character was Scorpius Malfoy, who was, ironically, the son of Draco Malfoy and Astoria Greengrass. To be completely honest and blunt, it did take a while for me to reel from the vandalism caused by the book to the imageries in my mind.
+
+
+
+
 
 [WORK IN PROGRESS]
 
