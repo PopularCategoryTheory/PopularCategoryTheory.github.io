@@ -19,7 +19,7 @@ This unexpected turn of events led to me finishing one book before Mr. Silent, a
 
 My journey of completing the Harry Potter novels brought a great amount of contentment to me - not just because I adored the plot, and how J.K. Rowling threw light on the proletariat's troubles by means of a few books, but also since it gifted me with a great amount of treasured memories, mostly involving the time I spent with friends while reading it. I was so obsessed with Harry Potter that I would ask my father to buy me Prop Replicas from Platform 9 3/4 at London, and these collectibles continue to inundate my house. Mr. Silent, Mr. Blabbermouth, and a few of my other friends would often quiz each other to test our knowledge of events that occurred in the series. 
 
-Nevertheless, my love for J. K. Rowling was certainly not everlasting - today, at this point of time, the only thing that I am grateful for are the moments I spent with my friends. My respect for her ebbed away slowly but surely over a long period of time.
+Nevertheless, my love for J. K. Rowling was certainly not everlasting - today, at this point of time, the only thing that I am grateful for are the moments I spent with my friends. My respect for her ebbed away slowly but surely.
 
 [WORK IN PROGRESS]
 
