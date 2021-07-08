@@ -27,7 +27,7 @@ external:                  # shows a footer with social links - for available ic
 
 layout: default
 comments: true
-#  disqus_shortname: ""    # see https://disqus.com/
+disqus_shortname: "https-persephonex-github-io"    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
