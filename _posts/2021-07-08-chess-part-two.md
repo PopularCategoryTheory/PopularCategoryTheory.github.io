@@ -1,8 +1,9 @@
 ---
-title: "Chess, featuring the inevitable return of Mr. Blabbermouth and Mr. Silent - Part One"
+title: "Chess, featuring the inevitable return of Mr. Blabbermouth and Mr. Silent - Part Two"
 layout: post
 ---
 The Whole School Chess Championship symbolised another opportunity to reimpose the idea of me being a decent chess player - or at least a better player than Mr. Blabbermouth. The Championship shortlisted the best players in the school through four competitions - the Class Chess Championship, the Whole School Chess Championship (the winner of this is declared Whole School Chess Champion irrespective of what happens in the following tournaments), the Problem Solving tournament, and the Chess 960/Fischer Random tournament. 
+
 
 The first leg of this was clearly the Class Chess Championship, which I greatly looked forward to. I wanted to win first place since I regarded Mr. Blabbermouth to be my only competition, and indirectly defeating him in the last tournament gave me much content, which was rather pointless since it did not do much when it came to muting Mr. Blabbermouth’s excuses. He claimed that I only won because my opponent in the fourth game of the last tournament made a few blunders and I lucked out. While my life did not depend on proving him otherwise, I was pissed off by his petulance.
 
