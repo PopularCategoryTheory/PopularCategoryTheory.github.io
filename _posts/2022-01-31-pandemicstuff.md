@@ -67,7 +67,7 @@ On a related note, I remember sixth grade when we were introduced to the "Find a
 
 Look around you, tell me if it worked. I am going to go out on a limb here and say it did not.
 
-(h) Group Projects: I think I speak for everyone when I say there are two types of group projects (i) ones you do with friends, (ii) ones you do with random people, and (iii) ones you do with a few friends and a few random people. 
+(h) Group Projects: I think I speak for everyone when I say there are three types of group projects (i) ones you do with friends, (ii) ones you do with random people, and (iii) ones you do with a few friends and a few random people. 
 
 I will admit that I had a habit of procrastinating on projects since it requires far more effort than regular homework. When I did projects with my friends, we would just talk about random things when we were given time to discuss during class. In ten-minute intervals, one of us would interrupt the conversation and say "Uhh guys, don't we have a project to discuss?". In the end, we would get the work done anyway. 
 How I survived group projects with people I am not too familiar with is still a mystery to me. Sometimes, my friends and I would just get split up into separate groups since we didn't have the nerve to tell the teacher that we would like to do it together. In such instances, we would take time out of the day to vent to each other about how irritating our teammates are.
