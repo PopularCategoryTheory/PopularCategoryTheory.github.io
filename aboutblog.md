@@ -19,7 +19,7 @@ Why?
 
 In order to answer that, we must ask ourselves another question:
 
-## What do we, as human beings do, when we need to solve a problem?
+## What do we, as human beings do when we need to solve a problem?
 
 Imagine you are nearing your first birthday. For months, you have been trying to take steps: trying hard to mimic the adults around you, who have been doing something that is foreign to you: walking.
 
