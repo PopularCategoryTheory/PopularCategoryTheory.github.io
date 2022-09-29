@@ -7,11 +7,15 @@ layout: post
 
 Hello there!
 
-My name is Khyathi, and I'm a seventeen-year-old from India who aspires to be a pure mathematician some day! When I'm free, I enjoy browsing random Wikipedia Pages, solving puzzles, reading articles on philosophy and aviation, and listening to music.
+My name is Khyathi, and I'm a seventeen-year-old from India who aspires to be a pure mathematician some day! When I'm free, I enjoy browsing random Wikipedia Pages, solving puzzles, reading articles on philosophy and aviation, and listening to music. If you would like to know a bit more about me, feel free to check out my [LinkedIn!](https://www.linkedin.com/in/khyathi-komalan-0b7a6b226/)
 
 When it comes to math, I'm currently interested in studying Algebraic Structures, Number Theory, Mathematical Philosophy, and most importantly: Category Theory, which is why I decided to start this blog.
 
-# ❓ Why Category Theory?
+# ❓ Why Category Theory? What is Category Theory?
+
+Unlike many concepts on this planet, Category Theory is exactly what it sounds like: a theory for working with categories. You can think of categories to be very similar to the "general" definition of a category. The dictionary definition of a "category" is: "a class or division of people or things regarded as having particular shared characteristics", or another way to phrase this, is defining a category to be a division of people or things that are related to each other in some way or the other.
+
+What does this idea of "relating" things to each other remind us of in math? The most simple answer is mappings. Therefore, a category consists of two kinds of data: objects and mappings. This is exactly what Category Theory deals with: encoding math as we know it today, using objects and mappings, that satisfy certain criteria.
 
 It is my personal belief that Category Theory is a severely underrated way of encoding mathematics as we know it today. 
 
