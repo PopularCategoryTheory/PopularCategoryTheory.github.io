@@ -11,6 +11,7 @@ Welcome to my Category Theory blog! I'm so glad you have decided to start explor
 Before you start reading this post, please take a minute to read [about this blog,](https://popularcategorytheory.github.io/aboutblog/) so you know how to use it!
 
 
+
 # ❓ What is a Category?
 
 It's the first day of school. Your teacher places a pile of notebooks and textbooks on your desk, and you have no idea what to do with them. You wince as you think about carrying them all back home. You don't even know what you're going to use all of them for.
