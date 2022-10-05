@@ -17,6 +17,10 @@ Unlike many concepts on this planet, Category Theory is exactly what it sounds l
 
 What does this idea of "relating" things to each other remind us of in math? The most simple answer is mappings. Therefore, a category consists of two kinds of data: objects and mappings. This is exactly what Category Theory deals with: encoding math as we know it today, using objects and mappings, that satisfy certain criteria.
 
+This blog is called "Popular Category Theory", since it is an attempt to bring Category Theory to the public, assuming no prerequisites, other than a will to understand the unknown. 
+
+But why do I want to do this?
+
 It is my personal belief that Category Theory is a severely underrated way of encoding mathematics as we know it today. 
 
 Why?
