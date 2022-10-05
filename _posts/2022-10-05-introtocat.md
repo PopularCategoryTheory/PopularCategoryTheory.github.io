@@ -6,16 +6,14 @@ layout: post
 
 Hello! 👋
 
-Welcome to my Category Theory blog! I'm so glad you have decided to start exploring Category Theory!
+Welcome to my Category Theory blog! I'm so glad you have decided to start exploring Category Theory! In this post, I will be defining categories, and citing a few examples of this structure that you may not have noticed before.
 
 Before you start reading this post, please take a minute to read [about this blog,](https://popularcategorytheory.github.io/aboutblog/) so you know how to use it!
+
 
 # ❓ What is a Category?
 
 It's the first day of school. Your teacher places a pile of notebooks and textbooks on your desk, and you have no idea what to do with them. You wince as you think about carrying them all back home. You don't even know what you're going to use all of them for.
-
-
-
 
 Your teacher is smart enough to make sense of the horror. She writes the following on the board:
 
