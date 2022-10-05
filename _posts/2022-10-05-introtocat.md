@@ -13,6 +13,8 @@ Before you start reading this post, please take a minute to read [about this blo
 
 It's the first day of school. Your teacher places a pile of notebooks and textbooks on your desk, and you have no idea what to do with them. You wince as you think about carrying them all back home. You don't even know what you're going to use all of them for.
 
+
+
 Your teacher is smart enough to make sense of the horror. She writes the following on the board:
 
 **There are 10 textbooks (one for each subject), and 10 notebooks. Each textbook corresponds to a notebook, and each notebook, corresponds to a textbook.**
