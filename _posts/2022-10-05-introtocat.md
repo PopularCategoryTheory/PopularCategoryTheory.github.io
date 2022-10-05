@@ -16,6 +16,7 @@ It's the first day of school. Your teacher places a pile of notebooks and textbo
 
 
 
+
 Your teacher is smart enough to make sense of the horror. She writes the following on the board:
 
 **There are 10 textbooks (one for each subject), and 10 notebooks. Each textbook corresponds to a notebook, and each notebook, corresponds to a textbook.**
