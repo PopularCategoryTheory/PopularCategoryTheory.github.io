@@ -35,7 +35,7 @@ That's because in your mind, the physics notebook does not belong in the same "b
 
 A few weeks later, your bus reaches school late. You have no idea which class you just waltzed into. You notice everyone has their physics textbooks on their tables. You're a bit flustered and embarrassed since you got to school late, so you aren't sure which notebook to take out of your bag. The only information you have is that you need your physics textbook, and the notebook should "correspond" to the textbook, i.e. belong in the same "box" as the physics textbook.
 
-In some sense, you are performing a **mapping** in your head. The subject textbook is the information you have, and you need to determine which notebook you need to take out, based on that. Let the mapping that lets you determine the notebook based on the textbook subject be $f,$ and the mapping that lets you determine the textbook based on the notebook subject be $g.$
+In some sense, you are performing a **mapping** in your head. The subject textbook is the information you have, and you need to determine which notebook you need to take out, based on that. Let the mapping that lets you determine the notebook based on the textbook subject be $$f,$$ and the mapping that lets you determine the textbook based on the notebook subject be $$g.$$
 
 Consider the box (in the diagram), labelled Grammar. Grammar has the following objects under its label: a grammar notebook, and a grammar textbook. 
 
