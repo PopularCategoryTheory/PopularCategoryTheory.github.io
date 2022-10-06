@@ -30,7 +30,7 @@ You arrange your textbooks and notebooks accordingly, following instructions.
 
 The next morning, you have mathematics class during the first period. You take out your mathematics textbook, and the notebook you assigned to that textbook (so, your math notebook).
 
-But why are you taking our your mathematics textbook and your mathematics notebook? Why not your physics notebook instead of your math notebook? 
+But why are you taking out your mathematics textbook and your mathematics notebook? Why not your physics notebook instead of your math notebook? 
 
 That's because in your mind, the physics notebook does not belong in the same "box" as mathematics. 
 
@@ -52,21 +52,21 @@ How would you go about figuring out which textbook to bring? First, you would tr
 
 This convoluted example is a demonstration of "composition". If you noticed, you are performing one mapping inside another mapping. Here, we have actually performed $$g(f(x)),$$ or $$g \circ f.$$ When using the bracket or $$()$$ notation, the mapping you need to perform first in order to make sense of the sentence appears inside, and the mappings you need to perform on that value appear outside.
 
-In this example, we now have four mappings: $$i_{t}, i_{n}, f$$ and $$g.$$
+In this example, we now have four mappings: $$i_{t}, i_{n}, f$$ and $$g.$$ 
 
-**Exercise 1:** Using our definition of mappings, and composition, try to find out what $$i_{t} \circ (f \circ g)$$ and $$(i_{t} \circ f) \circ g$$ is. Do you notice anything? Do you identify a problem? Remember that operations in brackets will need to be performed first!
+**Exercise 1:** Using our definition of mappings, and composition, try to find out what $$f \circ (i_{t} \circ g)$$ and $$(f \circ i_{t}) \circ g$$ is. Do you notice anything? Do you identify a problem? Remember that operations in brackets will need to be performed first!
 
 **Spoiler:**
-<details> You will run into a problem! Why? </details>
+<details> You should not run into a problem, however this might be a bit tricky to comprehend. If you don't want to solve this mathematically, try making sense of it using the sentences we used earlier, to define $$i_{t},f$$ and $$g.$$ </details>
 
 **Exercise 2:** Using our definition of mappings, and composition, try to find out what $$f \circ (g \circ f)$$ and $$(f \circ g) \circ f$$ is. Do you notice anything? Do you identify a problem? Remember that operations in brackets will need to be performed first!
 
 **Spoiler:**
-<details> You shouldn't run into a problem. In fact, you will realize $$f \circ (g \circ f) = (f \circ g) \circ f.$$ </details>
+<details> You shouldn't run into a problem. In fact, you will realize $$f \circ (g \circ f) = (f \circ g) \circ f.$$ Combining this with your result from Exercise 1, can you make any conjectures about the nature of $\circ$ in categories? </details>
 
 ## 🔁 Mathematical Definition of a Category
 
-Surprise, surprise, Subjects is NOT a Category! This is because it does not satisfy something known as "associativity of composition". In **Exercise 1,** notice that changing the brackets affects the final answer. That must not happen in a category.
+Unsurprisingly, Subjects is a Category! This is because it also satisfies something known as "associativity of composition". In **Exercise 1** and **Exercise 2** notice that changing the brackets does not affect the final answer. This must happen in categories!
 
 Like discussed in [about this blog](https://popularcategorytheory.github.io/aboutblog/), the dictionary definition of a “category” is: “a class or division of people or things regarded as having particular shared characteristics”, which means a everything in a category is related to each other in some way or the other. This act of "relating" is captured through mappings. 
 
@@ -77,19 +77,19 @@ So, what actually is a category?
 1. Objects: $$A, B, C, D$$ etc.
 2. Mappings: $$f, g, h$$ etc.
 
-Each of these objects has a mapping that maps the object back to itself. You can think of these as the identity mappings we defined earlier for "Grammar Textbook" and "Grammar Notebook". In mathematical terms, identity mappings must exist for each of these objects. Another criteria that identity mappings need to satisfy is that $$i_{a}\circ f = f = f \circ i_{a}$$ for any identity mapping $$i_{a}.$$
+Each of these objects has a mapping that maps the object back to itself. You can think of these as the identity mappings we defined earlier for "Grammar Textbook" and "Grammar Notebook". In mathematical terms, identity mappings must exist for each of these objects, so that for any object $$A,$$ it's identity mapping $$i_{a}: A \rightarrow A.$$ Another criteria that identity mappings need to satisfy is that $$i_{a}\circ f = f = f \circ i_{a}$$ for any identity mapping $$i_{a}.$$
 
-Say you have two mappings, $$f$$ and $$g$$ such that $$f$$ inputs $$A$$ and outputs $$B,$$ and $$g$$ inputs $$B$$ and outputs $$C,$$ then you should be able to define $$f \circ g,$$ or the composition of $$f$$ and $$g.$$ You should be able to compose mappings whose output matches the other's input.
+Say you have two mappings, $$f$$ and $$g$$ such that $$f$$ inputs $$A$$ and outputs $$B,$$ and $$g$$ inputs $$B$$ and outputs $$C,$$ then you should be able to define $$f \circ g,$$ or the composition of $$f$$ and $$g.$$ You should be able to compose mappings whose output matches the other's input. 
 
 Like discussed earlier, composition of mappings must be associative. This means $$(f \circ g) \circ h = f \circ (g \circ h).$$
 
 # 🤔 For the Philosophers
 
-Now, imagine that subjects were indeed a category. Imagine that I had several boxes, all satisfying the definition of a category, and the category was labeled mathematics!
+The example illustrated above is highly oversimplified. Imagine that I had several boxes, all satisfying the definition of a category, and the category was labeled mathematics!
 
 The definition of a category itself is quite interesting in a sense. The technical definition is entirely built on the simple, english definition of the word. The structures actually represent thinking in itself, as outline in [about this blog.] (https://popularcategorytheory.github.io/aboutblog/)(And yes, I'm stressing that link repeatedly since it must be read before this post.)
 
-An application of Category Theory into societal issues is outlined in Eugenia Cheng's talk on [Category Theory in Life](https://www.youtube.com/watch?v=ho7oagHeqNc)
+An application of Category Theory into societal issues is outlined in Eugenia Cheng's talk on [Category Theory in Life](https://www.youtube.com/watch?v=ho7oagHeqNc). This [paper](https://link.springer.com/chapter/10.1007/978-94-007-7738-5_3) explores connections between Category Theory and the brain's own process of categorization of thoughts based on past experiences.
 
 # 🖥️ For Those Interested in Computer Science
 
