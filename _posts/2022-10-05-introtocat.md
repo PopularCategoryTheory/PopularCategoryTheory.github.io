@@ -99,7 +99,7 @@ TYPES! The most obvious example of a categorical framework in Computer Science i
 
 Congratulations! 🥳
 
-You now know what a category is, what the data in a category is, and exactly what rules a category needs to satisfy. You have also been briefly introduced to (comparitively trivial) applications of Category Theory outside of mathematics!
+You now know what a category is, what the data in a category is, and exactly what rules a category needs to satisfy. You have also been briefly introduced to just few of the many applications of Category Theory outside of mathematics!
 
 We're not tired of the abstraction just yet! We don't just say that Category Theory gives a birds' eye view of mathematics (and arguably, everything) for nothing!
 
