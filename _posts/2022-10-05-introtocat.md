@@ -57,7 +57,7 @@ In this example, we now have four mappings: $$i_{t}, i_{n}, f$$ and $$g.$$
 **Exercise 1:** Using our definition of mappings, and composition, try to find out what $$f \circ (i_{t} \circ g)$$ and $$(f \circ i_{t}) \circ g$$ is. Do you notice anything? Do you identify a problem? Remember that operations in brackets will need to be performed first!
 
 **Spoiler:**
-<details> You should not run into a problem, however this might be a bit tricky to comprehend. If you don't want to solve this mathematically, try making sense of it using the sentences we used earlier, to define $$i_{t},f$$ and $$g,$$ and apply those definitions. $ </details>
+<details> You should not run into a problem, however this might be a bit tricky to comprehend. If you don't want to solve this mathematically, try making sense of it using the sentences we used earlier and apply those definitions. $ </details>
 
 **Exercise 2:** Using our definition of mappings, and composition, try to find out what $$f \circ (g \circ f)$$ and $$(f \circ g) \circ f$$ is. Do you notice anything? Do you identify a problem? Remember that operations in brackets will need to be performed first!
 
