@@ -87,7 +87,7 @@ Like discussed earlier, composition of mappings must be associative. This means 
 
 The example illustrated above is highly oversimplified. Imagine that I had several boxes, all satisfying the definition of a category, and the category was labeled mathematics!
 
-The definition of a category itself is quite interesting in a sense. The technical definition is entirely built on the simple, english definition of the word. The structures actually represent thinking in itself, as outline in [about this blog.](https://popularcategorytheory.github.io/aboutblog/)(And yes, I'm stressing that link repeatedly since it must be read before this post.)
+The definition of a category itself is quite interesting in a sense. The technical definition is entirely built on the simple, english definition of the word. The structures actually represent thinking in itself, as outlined in [about this blog.](https://popularcategorytheory.github.io/aboutblog/)(And yes, I'm stressing that link repeatedly since it must be read before this post.)
 
 An application of Category Theory into societal issues is outlined in Eugenia Cheng's talk on [Category Theory in Life](https://www.youtube.com/watch?v=ho7oagHeqNc). This [paper](https://link.springer.com/chapter/10.1007/978-94-007-7738-5_3) explores connections between Category Theory and the brain's own process of categorization of thoughts based on past experiences.
 
