@@ -77,7 +77,7 @@ So, what actually is a category?
 1. Objects: $$A, B, C, D$$ etc.
 2. Mappings: $$f, g, h$$ etc.
 
-Each of these objects has a mapping that maps the object back to itself. You can think of these as the identity mappings we defined earlier for "Grammar Textbook" and "Grammar Notebook". In mathematical terms, identity mappings must exist for each of these objects, so that for any object $$A,$$ it's identity mapping $$i_{a}: A \rightarrow A.$$ Another criteria that identity mappings need to satisfy is that $$i_{a}\circ f = f = f \circ i_{a}$$ for any identity mapping $$i_{a}.$$
+Each of these objects has a mapping that maps the object back to itself. You can think of these as the identity mappings we defined earlier for "Grammar Textbook" and "Grammar Notebook". In mathematical terms, identity mappings must exist for each of these objects, so that for any object $$A,$$ its identity mapping $$i_{a}: A \rightarrow A.$$ Another criteria that identity mappings need to satisfy is that $$i_{a}\circ f = f = f \circ i_{a}$$ for any identity mapping $$i_{a}.$$
 
 Say you have two mappings, $$f$$ and $$g$$ such that $$f$$ inputs $$A$$ and outputs $$B,$$ and $$g$$ inputs $$B$$ and outputs $$C,$$ then you should be able to define $$f \circ g,$$ or the composition of $$f$$ and $$g.$$ You should be able to compose mappings whose output matches the other's input. 
 
